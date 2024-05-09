@@ -1,6 +1,8 @@
 # 계산기
 
 ## 요구사항
+자세한 사항을 링크를 확인하세요
+https://github.com/javaone3/calc2/wiki
 
 - 더하기 기능<br>
   인수 a와 b를 넣으면 두 인수를 더한 값을 출력한다.
