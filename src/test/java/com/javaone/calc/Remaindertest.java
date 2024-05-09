@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 public class Remaindertest {
 
     @Test
-    @DisplayName("10을 2로 나누었을때 나머지가 나오는지 확인")
+    @DisplayName("10을 3로 나누었을때 나머지가 나오는지 확인")
     public void testRemainderTwoNum() {
 
         Remainder remainder = new Remainder();
