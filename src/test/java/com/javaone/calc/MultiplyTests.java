@@ -1,9 +1,10 @@
+package com.javaone.calc;
 
-
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-public class Multiplytest {
+public class MultiplyTests {
     @Test
     @DisplayName("곱셈")
     public void testMultiplyTwoNumbers1() {
