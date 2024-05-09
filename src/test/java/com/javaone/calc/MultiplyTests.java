@@ -12,5 +12,7 @@ public class MultiplyTests {
         int result = multiply.multiplyTwoNumbers(1, 2);
 
         Assertions.assertEquals(2, result);
+
+
     }
 }
